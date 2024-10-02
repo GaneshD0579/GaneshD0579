@@ -30,4 +30,4 @@
 
 - 🔭 I’m currently working on -> {Course Enrollment Website}
 - 🌱 I’m currently learning -> {Java_Full-stack, AWS}
-- 👯 I’m looking to collaborate on {ReactJS_Projects, MERNstack_Projects}
+- 👯 I’m looking to collaborate on {Website Building}
