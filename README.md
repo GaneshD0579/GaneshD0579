@@ -1,4 +1,4 @@
-E<div align="center" style="display: flex;">
+<div align="center" style="display: flex;">
     <h1 >Hola I'm Ganesh; </h1> 
     <p><img src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/></p>
 </div>
